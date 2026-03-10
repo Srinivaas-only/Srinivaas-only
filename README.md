@@ -2,17 +2,24 @@
 
 I'm **Srinivaas Thiruch Selvam**, a **Data Science student** who loves building and shipping ideas.
 
-**Tech Stack:** Python, Java, HTML/CSS/JS, Power BI  
-**Tools:** PyCharm, IntelliJ IDEA, NetBeans, VS Code, Figma, Notion, Framer  
+---
 
-**Currently focused on:** Data Science & ML, coding projects, trading & finance  
+### 💻 Tech Stack
+**Python** · **Java** · **HTML / CSS / JavaScript** · **Power BI**
 
-**Fun Facts:**  
-- 🏆 Dean's List (Sem 1)  
-- 💻 Self-taught coder  
-- 🚗 Car enthusiast  
-- 🎮 Resident Evil fan  
+### 🛠 Tools I Use
+**PyCharm** · **IntelliJ IDEA** · **NetBeans** · **VS Code** · **Figma** · **Notion** · **Framer**
 
-I enjoy **cars, tech, finance, and gaming**, always curious and building.  
+### 📚 Current Focus
+Data Science & Machine Learning · Coding Projects · Trading & Finance
 
-⭐ *Early in my journey, but always learning and creating.*
+### 🎯 Fun Facts
+🏆 Dean's List (Sem 1)  
+💻 Self-taught coder  
+🚗 Car enthusiast  
+🎮 Resident Evil fan  
+
+### 🌟 Interests
+Cars · Technology · Finance · Gaming  
+
+*Early in my journey, but always learning and creating.*
